@@ -109,4 +109,8 @@ form > a.botao:hover {
     font-weight: bolder;
 }
 
+div.campo > input {
+    background-color: #54bbb8;
+}
+
 
